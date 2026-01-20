@@ -85,7 +85,7 @@ protobuf==4.23.0
     #   googleapis-common-protos
     #   grpcio-health-checking
     #   opentelemetry-proto
-pyasn1==0.5.0
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
@@ -112,7 +112,7 @@ typing-extensions==4.5.0
     # via opentelemetry-sdk
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==1.26.15
+urllib3==2.6.3
     # via requests
 wrapt==1.15.0
     # via
